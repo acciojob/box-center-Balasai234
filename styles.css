@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+	justify-content:center;
+}
+.text{
+	color:purple;
+	text-align:center;
+	padding:50px;
+	font-size:15px;
+
+}
+.box{
+	height:200px;
+	width:200px;
+	border: 2px solid black;
+	position:relative;
+	top:100px;
+	left:150px;
+	background-color:lightblue;
+}
