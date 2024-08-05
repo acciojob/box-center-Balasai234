@@ -1,7 +1,6 @@
 /*  your css code here. If applicable */
 .container{
-	display:flex;
-	justify-content:center;
+	border-top-width:2px;
 }
 .text{
 	color:purple;
